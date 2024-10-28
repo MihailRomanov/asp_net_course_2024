@@ -1,6 +1,9 @@
 # Как оформлять практические работы
 
-[Подробно и по шагам смотрим тут (только название группы иное и роль в приглашении Developer(!) или выше)](https://youtu.be/OuKgQghY8CQ)
+Подробно и по шагам смотрим тут (только название группы иное и роль в приглашении Developer(!) или выше)
+- [YouTube](https://youtu.be/OuKgQghY8CQ)
+- [VK.Video](https://vk.com/video871595788_456239049)
+- [RuTube](https://rutube.ru/video/private/71100800f0e7c3e57fe920ba6e2cf64c/?p=D5vL_4tgNTnOpx9y837beg)
 
 ## А тезисно...
 - Подготовка группы
