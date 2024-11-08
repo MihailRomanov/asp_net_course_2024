@@ -21,7 +21,9 @@
 ### ADO.Net и ORMs
 |#|Презентация|Запись|
 |--|--|--|
-|01|Ado.Net Basic||
+|01|[Основы ADO.Net](./02.%20ADO.Net%20and%20ORMs/01.%20ADO.Net%20Basic.pptx?raw=true)|[YouTube](https://youtu.be/EyuoSjT4gwc), [VK.Video](https://vk.com/video871595788_456239050), [Rutube](https://rutube.ru/video/f94b041df5385e7b2f87d0e8df1a08e7/)|
+|02|[Connected model в ADO.Net](./02.%20ADO.Net%20and%20ORMs/02.%20ADO.Net%20Connected%20model.pptx?raw=true)|[YouTube](https://youtu.be/GjK_HXfxCRk), [VK.Video](https://vk.com/video871595788_456239051), [Rutube](https://rutube.ru/video/91cae3d226af853fc6f1abafd3d50a06/)|
+|03|[Введение в ORM](./02.%20ADO.Net%20and%20ORMs/03.%20Introduction%20to%20ORM.pptx?raw=true)|[YouTube](https://youtu.be/HSefPRzyan0), [VK.Video](https://vk.com/video871595788_456239052), [Rutube](https://rutube.ru/video/b1ce3d779cf6cccf032cb3073491ccc8/)|
 
 
 ### Хостинг и конфигурирование
