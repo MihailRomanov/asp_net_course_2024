@@ -14,4 +14,4 @@
 |#|Модуль|Недель|Срок|
 |--|--|--|--|
 |01|[Introduction to .Net](/Modules/01.%20Introduction%20to%20.Net/index.md)| 1 |06.11.2024|
-|01|[Стандартные библиотеки .Net](/Modules/02.%20Some%20standard%20libraries/index.md)| 1 |13.11.2024|
+|02|[Стандартные библиотеки .Net](/Modules/02.%20Some%20standard%20libraries/index.md)| 1,5 |17.11.2024|
