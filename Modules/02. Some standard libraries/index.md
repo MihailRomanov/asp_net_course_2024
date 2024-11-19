@@ -31,7 +31,7 @@
 |#|Презентация|Запись|
 |--|--|--|
 |01|[Хостинг и DI](./03.%20Hosting%20and%20configuration/01.%20Host%20and%20DI.pptx?raw=true)|[YouTube](https://youtu.be/ZL1m0hxvNxM), [VK.Video](https://vk.com/video871595788_456239048), [Rutube](https://rutube.ru/video/97b1e2b86e0191385490e00403eab4e9/)|
-|02|[Конфигурации, опции и командная строка](/03.%20Hosting%20and%20configuration/02.%20Configuration%2C%20options%20and%20command%20line.pptx?raw=true)|[YouTube](https://youtu.be/P_ggfVS_Gw8), [VK.Video](https://vk.com/video871595788_456239054), [Rutube](https://rutube.ru/video/96c670c7ed2105fb88e1e26ad45589df/)|
+|02|[Конфигурации, опции и командная строка](./03.%20Hosting%20and%20configuration/02.%20Configuration%2C%20options%20and%20command%20line.pptx?raw=true)|[YouTube](https://youtu.be/P_ggfVS_Gw8), [VK.Video](https://vk.com/video871595788_456239054), [Rutube](https://rutube.ru/video/96c670c7ed2105fb88e1e26ad45589df/)|
 
 
 
