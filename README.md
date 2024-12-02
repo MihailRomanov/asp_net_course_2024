@@ -15,3 +15,4 @@
 |--|--|--|--|
 |01|[Introduction to .Net](/Modules/01.%20Introduction%20to%20.Net/index.md)| 1 |06.11.2024|
 |02|[Стандартные библиотеки .Net](/Modules/02.%20Some%20standard%20libraries/index.md)| 2 |22.11.2024|
+|03|[Сборка и обслуживание ПО](/Modules/03.%20Software%20build%20and%20maintenance/index.md)| 2 |11.12.2024|
