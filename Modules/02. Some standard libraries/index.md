@@ -35,8 +35,13 @@
 
 
 
-
 ## Практика
 
 - [Задание 01 "EF Core"](./Task_01/task_01.md)
 - [Задание 02 "Хосты, DI и настройки"](./Task_02/task_02.md)
+
+
+## Вопросы и ответы
+|#|Презентация|Запись|
+|--|--|--|
+|01|[DI, EF Core, ФС](./Q%26A%20%231/Q%26A%20%231.pptx?raw=true)|[YouTube](https://youtu.be/tn3u3wUizjg), [VK.Video](https://vkvideo.ru/video871595788_456239064), [Rutube](https://rutube.ru/video/fa05c12345c0c93e4c78f2cddabce600/)|
