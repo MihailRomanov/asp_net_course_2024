@@ -17,3 +17,4 @@
 |02|[Стандартные библиотеки .Net](/Modules/02.%20Some%20standard%20libraries/index.md)| 2 |22.11.2024|
 |03|[Сборка и обслуживание ПО](/Modules/03.%20Software%20build%20and%20maintenance/index.md)| 2 |11.12.2024|
 |04|[Сериализация](/Modules/04.%20Serialization/index.md)| 1 |18.12.2024|
+|05|[Многопоточное и асинхронное программирование](/Modules/05.%20Async%20and%20Multithreading/index.md)| 1 |31.01.2025|
