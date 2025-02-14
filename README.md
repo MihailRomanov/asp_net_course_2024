@@ -19,3 +19,4 @@
 |04|[Сериализация](/Modules/04.%20Serialization/index.md)| 1 |18.12.2024|
 |05|[Многопоточное и асинхронное программирование](/Modules/05.%20Async%20and%20Multithreading/index.md)| 1 |31.01.2025|
 |06|[Базовый HTTP и основы ASP.Net Core](/Modules/06.%20Http%20and%20ASP.Net%20Core%20Intro/index.md)| 1 |07.02.2025|
+|07|[API и Web-сервисы](/Modules/07.%20API%20and%20Web-services/index.md)| 2 |28.02.2025|
