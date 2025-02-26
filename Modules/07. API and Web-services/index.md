@@ -11,7 +11,7 @@
 
 |#|Презентация|Запись|
 |--|--|--|
-|01|[Введение в сервисы](./01.%20Introduction%20to%20services.pptx?raw=true)|[YouTube](https://youtu.be/PIT7yCdRCY0), [VK.Video](https://vkvideo.ru/video871595788_456239067), [Rutube](https://rutube.ru/video/private/c13c3e66ed66d242fe3d7aeded315d0a/?p=LV1swJWEc6Pli1mgFEZEQg)|
+|01|[Введение в сервисы](./01.%20Introduction%20to%20services.pptx?raw=true)|[YouTube](https://youtu.be/PIT7yCdRCY0), [VK.Video](https://vkvideo.ru/video871595788_456239067), [Rutube](https://rutube.ru/video/c13c3e66ed66d242fe3d7aeded315d0a/)|
 |02|[ASP.Net Core API](02.%20ASP.Net%20Core%20API.pptx?raw=true)|[YouTube](https://youtu.be/bhm53Bs2dSw), [VK.Video](https://vkvideo.ru/video871595788_456239068), [Rutube](https://rutube.ru/video/f8dbc2d22e61acc4bbafaec032da82fa/)|
 
 
