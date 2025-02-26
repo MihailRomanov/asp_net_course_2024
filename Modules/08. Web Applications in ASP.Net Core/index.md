@@ -11,7 +11,7 @@
 
 |#|Презентация|Запись|
 |--|--|--|
-|01|[Введение в сервисы](./?raw=true)|[YouTube](), [VK.Video](), [Rutube]()|
+|01|[Web-приложения на базе ASP.Net Core](./01.%20Web%20Applications%20in%20ASP.Net%20Core.pptx?raw=true)|[YouTube](), [VK.Video](), [Rutube]()|
 
 
 ## Практика
