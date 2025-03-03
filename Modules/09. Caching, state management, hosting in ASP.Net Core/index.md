@@ -9,8 +9,8 @@
 
 |#|Презентация|Запись|
 |--|--|--|
-|01|[](./?raw=true)|[YouTube](), [VK.Video](), [Rutube]()|
-|02|[](./?raw=true)|[YouTube](), [VK.Video](), [Rutube]()|
+|01|[Кэширование в ASP.Net Core](./01.%20Caching%20in%20ASP.Net%20Core.pptx?raw=true)|[YouTube](https://youtu.be/XpPOkFAqkPk), [VK.Video](https://vkvideo.ru/video871595788_456239070), [Rutube](https://rutube.ru/video/675582bcf94547d014bb5a8f8233e7ce/)|
+|02|[Управление состоянием в ASP.Net Core Apps](./02.%20State%20management%20in%20ASP.Net%20Core.pptx?raw=true)|[YouTube](), [VK.Video](), [Rutube]()|
 
 
 ## Практика
