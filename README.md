@@ -22,3 +22,4 @@
 |07|[API и Web-сервисы](/Modules/07.%20API%20and%20Web-services/index.md)| 2 |28.02.2025|
 |08|[Web-приложения на базе ASP.Net Core](/Modules/08.%20Web%20Applications%20in%20ASP.Net%20Core/index.md)| 1 |07.03.2025|
 |09|[Кэширование, состояние и хостинг ASP.Net Core](/Modules/09.%20Caching%2C%20state%20management%2C%20hosting%20in%20ASP.Net%20Core/index.md)| 1 |14.03.2025|
+|10|[Безопасность в ASP.Net Core](/Modules/10.%20ASP.Net%20Core%20Security/index.md)| 1 |21.03.2025|
